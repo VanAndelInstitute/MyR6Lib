@@ -1,7 +1,7 @@
 # MyR6Lib
 
 The goal of MyR6Lib is to provide a basic skeleton for an R6 based R 
-package. Having code organized in a package is a Good Practice as it  
+package. Having code organized in a package is a Good Practice as it 
 facilitates test-based development, and it encourages you to stay organized 
 and well documented.  Then when you inevitably want to share your 
 code later as part of manuscript submission, your code will be in a format 
