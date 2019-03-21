@@ -1,0 +1,9 @@
+* installing *source* package ‘MyR6Lib’ ...
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded
+* DONE (MyR6Lib)
